@@ -1,0 +1,9 @@
+# 编译产物
+build/
+*.exe
+*.o
+*.out
+
+# VSCode配置
+.vscode/
+*.log
